@@ -6,10 +6,10 @@
 	  <parameter name="os" value="Windows" />
 	  <parameter name="browser" value="chrome" />
     <classes>
- <!-- <class name="testCases.TC_001_AccountVerify"/>
-   <class name="testCases.TC_002_CheckAroundCog"/>--> 
+  <class name="testCases.TC_001_AccountVerify"/>
+   <!--<class name="testCases.TC_002_CheckAroundCog"/> 
  	 <class name="testCases.TC_003_VerifyTooltip"/>
-  <!--    <class name="testCases.TC_004_CheckNewsCount"/>
+      <class name="testCases.TC_004_CheckNewsCount"/>
       <class name="testCases.TC_005_CompareNewsTitle"/>
       <class name="testCases.TC_006_PrintNewsArticle"/>-->
     </classes>
